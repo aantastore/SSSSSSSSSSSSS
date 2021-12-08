@@ -134,7 +134,7 @@ module.exports = simple = async (simple, mek, _welkom) => {
 				group: 'Fitur Khusus Grup !!'
 			}
 		}
-		faketeks = '©YENI BOTZ' //Ganti Aja Nama Luh
+		faketeks = '©Caca BOTZ' //Ganti Aja Nama Luh
 		const isUrl = (url) => {
         return url.match(new RegExp(/https?:\/\/(www\.)?[-a-zA-Z0-9@:%.+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%+.~#?&/=]*)/, 'gi'))
         }
@@ -712,9 +712,9 @@ break
 case 'bayar':
 simple.updatePresence(from, Presence.recording)
 menu =` *「PAYMENT」*
-• GOPAY : TF VIA QRIS AJA
-• DANA : TF VIA QRIS
-• OVO : TF VIA QRIS
+• GOPAY : 081262411188
+• DANA :  081262411188
+• OVO :  081262411188
 ━━━━━━━━━━━━━━━━━━━━`
 fakeitem(menu)
 break
